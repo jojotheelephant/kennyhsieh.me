@@ -1992,6 +1992,7 @@ h6 {
 }
 
 .mh-work .mh-experience-deatils .mh-work-item h4 a {
+    font-style: italic;
     color: #0bceaf;
 }
 
