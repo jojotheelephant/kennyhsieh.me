@@ -152,7 +152,7 @@
     | Portfolio mixin
     |================
     */
-    $("#portfolio-item").mixItUp();
+    // $("#portfolio-item").mixItUp();
 
     /*
     |=================
