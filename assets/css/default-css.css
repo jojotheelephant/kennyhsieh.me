@@ -65,5 +65,5 @@ Backtrace:
 body:before {
     white-space: pre;
     font-family: monospace;
-    content: 'Error: Undefined variable: "$font-1".\A         on line 12 of /home/ubuntu/workspace/assets/css/default-css.scss\A \A 7:     text-rendering: optimizeLegibility;\A 8:     -webkit-font-smoothing: antialiased;\A 9: }\A 10: \A 11: body{\A 12:     font-family:            $font-1;\A 13:     font-size:              14px;\A 14:     font-style:             none;\A 15:     line-height:            24px;\A 16:     font-weight:            500;\A 17:     overflow-x:             hidden !important;';
+    content: 'Error: Undefined variable: "$font-1".\A         on line 12 of /home/ubuntu/workspace/assets/css/default-css.scss\A \A 7:     text-rendering: optimizeLegibility;\A 8:     -webkit-font-smoothing: antialiased;\A 9: }\A 10: \A 11: body{\A 12:     font-family:            $font-1;\A 13:     font-size:              17px;\A 14:     font-style:             none;\A 15:     line-height:            24px;\A 16:     font-weight:            500;\A 17:     overflow-x:             hidden !important;';
 }

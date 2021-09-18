@@ -89,7 +89,7 @@ html {
 
 body {
     font-family: "roboto", sans-serif;
-    font-size: 14px;
+    font-size: 17px;
     font-style: none;
     line-height: 24px;
     font-weight: 500;
@@ -1948,7 +1948,7 @@ h6 {
 }
 
 .mh-experince .mh-education-deatils .mh-education-item p {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 23px;
     margin-bottom: 0;
 }
@@ -2007,7 +2007,7 @@ h6 {
 }
 
 .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 23px;
     margin: 2px 0;
 }
